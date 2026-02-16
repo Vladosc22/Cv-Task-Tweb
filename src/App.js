@@ -1,5 +1,6 @@
 // ─── DATE CV — editează aici ──────────────────────────────────────────────────
-const CV_DATA = {
+const CV_DATA =
+
     name: "Chiochiu Vladislav",
     title: "Student • Informatică și Ingineria Sistemelor",
     university: "Universitatea Tehnică a Moldovei — Anul II",
