@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 // ─── DATE CV — editează aici ──────────────────────────────────────────────────
 const CV_DATA = {
     name: "Chiochiu Vladislav",
